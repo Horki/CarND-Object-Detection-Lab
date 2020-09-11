@@ -8,3 +8,7 @@ rfcn_resnet101_coco_11_06_2017/*
 faster_rcnn_inception_resnet_v2_atrous_coco_11_06_2017/*
 
 *.tar.gz
+
+# Virtual ENV
+env/
+venv/
